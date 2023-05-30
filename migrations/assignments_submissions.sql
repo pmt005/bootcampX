@@ -14,3 +14,4 @@ CREATE TABLE assignments (
   chapter INTEGER,
   duration INTEGER
 );
+
